@@ -1,0 +1,128 @@
+
+
+1.	For each of the following statements, indicate whether it is True/False. If false, explain why.
+
+I.	The sample size of the survey should at least be a fixed percentage of the population size in order to produce representative results.
+
+Ans: The size of sample depend on variablitiy and level of precision we desire.
+In case of a large and diverse population having large sample helps to have samll
+margin of error
+However, after a certain point increase in sample size doesnt increase its precision.
+
+II.	The sampling frame is a list of every item that appears in a survey sample, including those that did not respond to questions.
+
+Ans : The sampling frame ideally should include all individuals in the target population and exclude all individuals not in the target population1. It should also include accurate information that can be used to contact selected individuals1.
+
+III.	Larger surveys convey a more accurate impression of the population than smaller surveys.
+
+Ans : Considering randomally selected, a larger sample size in a survey can provide a more accurate impression of the population. This is because a larger sample size reduces the effect of sampling error and thus increases the likelihood that the sample is representative of the population.
+
+
+2.	PC Magazine asked all of its readers to participate in a survey of their satisfaction with different brands of electronics. In the 2004 survey, which was included in an issue of the magazine that year, more than 9000 readers rated the products on a scale from 1 to 10. The magazine reported that the average rating assigned by 225 readers to a Kodak compact digital camera was 7.5. For this product, identify the following:
+
+A.	The population - refers to the entire group that you want to draw conclusions about. In this case, the population would be all readers of PC Magazine who own and use different brands of electronics
+B.	The parameter of interest - is the characteristic of the population that you're interested in. Here, it would be the satisfaction rating assigned by the readers to the Kodak compact digital camera.
+C.	The sampling frame - (around 9000)  it is a list of all the items or individuals in the population from which the sample is drawn. In this scenario, the sampling frame would be all readers of PC Magazine.
+D.	The sample size - is the number of observations in the sample. For the Kodak compact digital camera, the sample size is 225.
+E.	The sampling design - refers to the method used to select individuals from the population to be in the sample. In this case, it seems like a self-selected (Voluntary) sample, as the survey was included in an issue of the magazine and readers could choose whether or not to participate.
+F.	Any potential sources of bias or other problems with the survey or sample -
+- Self-selection bias: Since the survey was optional, it's possible that those who chose to respond were more likely to have strong opinions about the products, either positive or negative.
+   - Non-response bias: Readers who did not respond to the survey might have different opinions than those who did.
+   - Coverage bias: If some readers of PC Magazine did not receive or see the survey, they would be excluded from the sampling frame.
+   - There might be a lack of representativeness if the readers of PC Magazine do not accurately represent all users of these electronic brands.
+   
+
+3.	For each of the following statements, indicate whether it is True/False. If false, explain why.
+
+I.	If the 95% confidence interval for the average purchase of customers at a department store is $50 to $110, then $100 is a plausible value for the population mean at this level of confidence.
+
+Ans: True,  As the value lies within confidence Interval.
+
+II.	If the 95% confidence interval for the number of moviegoers who purchase concessions is 30% to 45%, this means that fewer than half of all moviegoers purchase concessions.
+
+Ans:  False. As we dont have enough information/evidence to conclude.
+
+III.	The 95% Confidence-Interval for ? only applies if the sample data are nearly normally distributed.
+
+Ans: False: The 95% confidence Interval for population mean can be applied to distribution that aren’t normal, but they are easy to understand in symmetric distributions.
+We can use the central limit theorem to make a normal approximation. The rule where about 95% of observations are within 2 standard deviations of the mean is only approximately true. However, it holds very well for the normal distribution. The mean of data tends to be normally distributed when the sample size is sufficiently large.
+
+
+4.	What are the chances that x? > ??
+
+A.	1/4  
+B.	1/2 
+C.	3/4  
+D.	1
+
+Ans:  1/2
+
+5.	In January 2005, a company that monitors Internet traffic (WebSideStory) reported that its sampling revealed that the Mozilla Firefox browser launched in 2004 had grabbed a 4.6% share of the market.
+
+I.	If the sample were based on 2,000 users, could Microsoft conclude that Mozilla has a less than 5% share of the market?
+
+Ans: No
+
+II.	WebSideStory claims that its sample includes all the daily Internet users. If that's the case, then can Microsoft conclude that Mozilla has a less than 5% share of the market?
+
+Ans: Yes
+
+
+6.	A book publisher monitors the size of shipments of its textbooks to university bookstores. For a sample of texts used at various schools, the 95% confidence interval for the size of the shipment was 250 +- 45 books. Which, if any, of the following interpretations of this interval are correct?
+
+A.	All shipments are between 205 and 295 books.
+
+Ans: Incorrect 
+
+B.	95% of shipments are between 205 and 295 books.
+
+Ans: Correct
+
+C.	The procedure that produced this interval generates ranges that hold the population mean for 95% of samples.
+
+Ans:  Correct
+
+D.	If we get another sample, then we can be 95% sure that the mean of this second sample is between 205 and 295.
+
+Ans: Correct
+
+E.	We can be 95% confident that the range 160 to 340 holds the population mean.
+
+Ans: Incorrect
+
+7.	Which is shorter: a 95% z-interval or a 95% t-interval for ? if we know that ? =s?
+
+A.	The z-interval is shorter
+B.	The t-interval is shorter
+C.	Both are equal
+D.	We cannot say
+
+
+Ans: For 95% confident Z-interval is shorter (1.960), as for t-interval (1.962) it increases as degree of freedom decreases.
+
+Questions 8 and 9 are based on the following: To prepare a report on the economy, analysts need to estimate the percentage of businesses that plan to hire additional employees in the next 60 days.
+
+
+8.	How many randomly selected employers (minimum number) must we contact in order to guarantee a margin of error of no more than 4% (at 95% confidence)?
+
+A.	600
+B.	400
+C.	550
+D.	1000
+
+Ans:   A    . Number of Employee n = z² * p * (1 - p) / e²
+                   (1.96)² * 0.5 * (1 - 0.5) / 0.04², 
+	        n = 0.9604 / 0.0016 ,
+	        n = 600.25.
+
+9.	Suppose we want the above margin of error to be based on a 98% confidence level. What sample size (minimum) must we now use?
+
+A.	1000
+B.	757
+C.	848
+D.	543
+
+Ans :  C . Again,  n= z² * p * (1 - p) / e²
+               (2.32) ^2 * (0.5) (0.5) / (0.04) ^2   =841 approx
+
+
