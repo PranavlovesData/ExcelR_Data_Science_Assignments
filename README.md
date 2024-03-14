@@ -12,6 +12,6 @@ This repository contains all the assignments and related files for excelR data s
 | **2.**    | **[Basic_Stats_2](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Basic_stats_2)** |
 | **3.**    | **[Hypothesis Testing](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Hypothesis_Testing)** |
 | **4.**    | **[Simple Linear Regression](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Linear_Regression)** |
-| **5.**    | **[Logistic Regression](https://github.com/PranavlovesData/Data-Structure-And-Algorithms/blob/main/Sort%20%26%20Search%20Alogrithms/Sorting%20Algorithms/Bubble%20Sort.txt)** |
+| **5.**    | **[Logistic Regression](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Logistic_Regression)** |
 | **6.**    | **[Multi Linear Regression](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Multi_Linear_Regression)** |
 | **7.**    | **[Naive Bayes](https://github.com/PranavlovesData/Data-Structure-And-Algorithms/blob/main/Sort%20%26%20Search%20Alogrithms/Sorting%20Algorithms/Selection%20Sort.txt)** |
