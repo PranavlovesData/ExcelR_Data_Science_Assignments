@@ -15,5 +15,7 @@ This repository contains all the assignments and related files for excelR data s
 | **5.**    | **[Logistic Regression](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Logistic_Regression)** |
 | **6.**    | **[Multi Linear Regression](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Multi_Linear_Regression)** |
 | **8.**    | **[Clustering](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
-| **9.**    | **[Naive](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
+| **9.**    | **[PCA](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/08_PCA)** |
 | **10.**    | **[Bayes](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
+| **11.**    | **[Bayes](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
+| **12.**    | **[Bayes](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
