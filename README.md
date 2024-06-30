@@ -17,5 +17,5 @@ This repository contains all the assignments and related files for excelR data s
 | **8.**    | **[Clustering](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
 | **9.**    | **[PCA](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/08_PCA)** |
 | **10.**    | **[EDA2](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/EDA2)** |
-| **11.**    | **[Decision_Tree](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Decision_Tree)** |
+| **11.**    | **[Decision_Tree](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Decision%20Tree)** |
 | **12.**    | **[Bayes](https://github.com/PranavlovesData/ExcelR_Data_Science_Assignments/tree/main/Clustering)** |
